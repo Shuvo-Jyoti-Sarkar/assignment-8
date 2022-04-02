@@ -1,0 +1,56 @@
+[
+    {
+        "id": "624821e5f9560b1e9e7b2883",
+        "name": "Trudy Larsen",
+        "price": 906,
+        "img": "images/laptop-1.jpg"
+    },
+    {
+        "id": "624821e5afcb3653677e6db9",
+        "name": "Debora Bates",
+        "price": 749,
+        "img": "images/laptop-2.jpg"
+    },
+    {
+        "id": "624821e561ee2da7e9340215",
+        "name": "Robbie Boyle",
+        "price": 715,
+        "img": "images/laptop-3.jpg"
+    },
+    {
+        "id": "624821e5226be608d3b075a6",
+        "name": "Tia Barnes",
+        "price": 848,
+        "img": "images/laptop-4.jpg"
+    },
+    {
+        "id": "624821e54e7b9770b8215455",
+        "name": "Tabitha Mueller",
+        "price": 534,
+        "img": "images/laptop-5.jpg"
+    },
+    {
+        "id": "624821e5ff30f4ceedb4fb75",
+        "name": "Andrews Alvarado",
+        "price": 745,
+        "img": "images/laptop-6.jpg"
+    },
+    {
+        "id": "624821e581d2d73109c9b2da",
+        "name": "Mendez Allen",
+        "price": 660,
+        "img": "images/laptop-7.jpg"
+    },
+    {
+        "id": "624821e50609cc74c6f303aa",
+        "name": "Selma Newman",
+        "price": 618,
+        "img": "images/laptop-8.jpg"
+    },
+    {
+        "id": "624821e506435524008e5c47",
+        "name": "Lindsay Mccall",
+        "price": 989,
+        "img": "images/laptop-9.jpg"
+    }
+]
