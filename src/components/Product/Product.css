@@ -28,8 +28,16 @@
     width: 100%;
     background-color: skyblue;
     border: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .btn-cart:hover{
     background-color: yellowgreen;
 }
+
+.btn-cart p{
+    margin-right: 8px;
+}
+
