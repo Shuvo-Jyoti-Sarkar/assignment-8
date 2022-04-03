@@ -18,6 +18,12 @@
     color: blue;
 }
 
+.cart-container button{
+    background-color: rgb(68, 181, 226);
+    border: none;
+    border-radius: 5px;
+}
+
 @media screen and (max-width:900px) {
     .products-container{
         grid-template-columns: repeat(1,1fr);

@@ -38,6 +38,9 @@ const Laptop = () => {
                         product={product}
                     ></Cart>)
                 }
+                <button>
+                    <p>Choose 1 For Me</p>
+                </button>
             </div>
         </div>
     );
