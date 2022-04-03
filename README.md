@@ -1,6 +1,6 @@
 # lucky-one-Shuvo-Jyoti-Sarkar
 
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the live site link: [Live Website Link_Assignment-8](https://app.netlify.com/sites/assignment-8-shuvo-jyoti/settings/general).
 
 
